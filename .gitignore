@@ -130,8 +130,7 @@ lib/*
 *.so
 *.dll
 
-# Reports and temporary files
-reports/
+# Temporary reports and log files (not source reports directory)
 *.pdf
 *.log
 
